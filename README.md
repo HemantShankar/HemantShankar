@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Hemant Shankar</h1>
 <h3 align="center">A passionate Data Analyst/Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif">
@@ -30,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantshankar&show_icons=true&locale=en&layout=compact" alt="hemantshankar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantshankar&show_icons=true&locale=en" alt="hemantshankar" /></p>
+
