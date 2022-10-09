@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemant Shankar</h1>
 <h3 align="center">A passionate Data Analyst/Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1UU95AdBpyHyeLOIvE3N9hGE9E7mCaVe5/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif">
 
 - 🔭 I’m currently working on **Covid Analysis in India**
 
