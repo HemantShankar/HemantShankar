@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Machine Learning, MySQL, Excel,...etc.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HemantShankar](https://github.com/HemantShankar)
+- 👨‍💻 All of my projects are available at [My_Github](https://github.com/HemantShankar)
 
 - 💬 Ask me about **EDA, Visualization, Python, Feature Engineering, Mathematics...etc.**
 
 - 📫 How to reach me **hemantshankar9595@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bVSJ8DlYxQZU5ToTk4v7RHIQC2BMVAht/view?usp=sharing](https://drive.google.com/file/d/1bVSJ8DlYxQZU5ToTk4v7RHIQC2BMVAht/view?usp=sharing)
+- 📄 Know all about me from [my Cv.](https://drive.google.com/file/d/1bVSJ8DlYxQZU5ToTk4v7RHIQC2BMVAht/view?usp=sharing)
 
 - ⚡ Fun fact **I like acting.**
 
