@@ -3,19 +3,19 @@
 <h3 align="center">A passionate Data Analyst/Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif">
 
-- 🔭 I’m currently working on **Covid Analysis in India**
+- 🔭 I’m currently working on **Tableau Dashboard.**
 
 - 🌱 I’m currently learning **Machine Learning, MySQL, Excel,...etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HemantShankar](https://github.com/HemantShankar)
 
-- 💬 Ask me about **EDA, Visualization, Python, Feature Engineering,...etc.**
+- 💬 Ask me about **EDA, Visualization, Python, Feature Engineering, Mathematics...etc.**
 
 - 📫 How to reach me **hemantshankar9595@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bVSJ8DlYxQZU5ToTk4v7RHIQC2BMVAht/view?usp=sharing](https://drive.google.com/file/d/1bVSJ8DlYxQZU5ToTk4v7RHIQC2BMVAht/view?usp=sharing)
 
-- ⚡ Fun fact **I have good sense of humour.**
+- ⚡ Fun fact **I like acting.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
