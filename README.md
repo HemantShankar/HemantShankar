@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hemantshankar9595@gmail.com**
 
-- 📄 Know all about me from [my Cv.](https://drive.google.com/file/d/1bVSJ8DlYxQZU5ToTk4v7RHIQC2BMVAht/view?usp=sharing)
+- 📄 Know all about me from [my Cv.](https://drive.google.com/file/d/1ahucyyEBxmz_DlxlMSb0wYJqpkcB07OY/view?usp=share_link)
 
 - ⚡ Fun fact **I like acting.**
 
