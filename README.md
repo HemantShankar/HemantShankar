@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemant Shankar</h1>
 <h3 align="center">A passionate Front-End Developer from India</h3>
-<img align="right" alt="Coding" width="450" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🔭 I’m currently developing **a portal for placement drive**
 
