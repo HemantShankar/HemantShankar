@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Hemant Shankar</h1>
-<h3 align="center">A passionate Data Analyst/Scientist from India</h3>
+<h3 align="center">A passionate frontend developer.[</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif">
 
-- 🔭 I’m currently working on **Tableau Dashboard.**
+- 🔭 I’m currently developing a **portal for placement drive**
 
-- 🌱 I’m currently learning **Machine Learning, MySQL, Excel,...etc.**
+- 🌱 I’m currently learning **React.**
 
 - 👨‍💻 All of my projects are available at [My_Github](https://github.com/HemantShankar)
 
-- 💬 Ask me about **EDA, Visualization, Python, Feature Engineering, Mathematics...etc.**
+- 💬 Ask me about **HTML, CSS, Javascript, React, EDA, Visualization, Python, Feature Engineering, Mathematics...etc.**
 
 - 📫 How to reach me **hemantshankar9595@gmail.com**
 
