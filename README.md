@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hemant Shankar</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h3 align="center">A passionate Front-End Developer and Data Analyst.</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently developing **a website for sharing interview experiences.**
-
-- 🌱 I’m currently learning **React and Bootstrap**
+- 🔭 I’m currently looking for full-time job opportunity.
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/HemantShankar)
 
-- 💬 Ask me about **HTML, CSS, Javascript, EDA, Visualization, Python, Feature Engineering,...etc.**
+- 💬 Ask me about **HTML, CSS, Javascript, React, EDA, Visualization, Python, Feature Engineering,...etc.**
 
 - 📫 Reach me via **hemantshankar9595@gmail.com**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1bVSJ8DlYxQZU5ToTk4v7RHIQC2BMVAht/view?usp=sharing)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1KP1vvBw5Cwm37Wn2bRZJLA_abCqx7iWq/view?usp=drive_link)
 
-- ⚡ Fun fact **I have good sense of humour.**
+- ⚡ Fun fact: **I do acting.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
