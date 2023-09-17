@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hemant Shankar</h1>
-<h3 align="center">A passionate Front-End Developer and Data Analyst.</h3>
+<h3 align="center">An Aspiring Data Science with knowledge of frontend Development.</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🔭 I’m currently looking for full-time job opportunity.
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/HemantShankar)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, EDA, Visualization, Python, Feature Engineering,...etc.**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Data Science, Machine Learning, EDA, Visualization, Python, Feature Engineering,...etc.**
 
 - 📫 Reach me via **hemantshankar9595@gmail.com**
 
