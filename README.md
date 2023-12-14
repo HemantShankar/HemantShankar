@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemant Shankar</h1>
-<h3 align="center">An Aspiring Data Science with knowledge of frontend Development.</h3>
+<h3 align="center">An Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🔭 I’m currently looking for full-time job opportunity.
@@ -10,7 +10,7 @@
 
 - 📫 Reach me via **hemantshankar9595@gmail.com**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1KP1vvBw5Cwm37Wn2bRZJLA_abCqx7iWq/view?usp=drive_link)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1NaLRkxQVItvXeGPpNj28EdpS9mKI-KW1/view?usp=sharing)
 
 - ⚡ Fun fact: **I do acting.**
 
